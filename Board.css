@@ -1,0 +1,21 @@
+.blueCell {
+  flex: 1;
+  height: 100px;
+  border: 1px solid #dcd3d3;
+  display: flex;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  background-color: blue !important;
+}
+
+.redCell {
+  flex: 1;
+  height: 100px;
+  border: 1px solid #dcd3d3;
+  display: flex;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  background-color: red;
+}
